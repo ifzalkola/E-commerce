@@ -1,0 +1,7 @@
+{
+  "prettier.printWidth": 80,
+  "prettier.semi": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.trailingComma": "none",
+  "prettier.jsxSingleQuote": true
+}
